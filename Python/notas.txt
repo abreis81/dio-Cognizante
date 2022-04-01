@@ -1,0 +1,4 @@
+Rafael, 10, 10, 5, 5
+Cesar,7, 9, 5, 5
+Caio, 8, 10, 3, 8
+Mauricio, 8, 9, 3, 5
