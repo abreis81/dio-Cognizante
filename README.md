@@ -1,2 +1,2 @@
-# Repositório dio-Cognizante
+# Dio-Cognizante
 Projetos do curso
